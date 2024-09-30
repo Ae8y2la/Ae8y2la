@@ -1,4 +1,4 @@
-[![MasterHead]](https://github.com/user-attachments/assets/440a126e-9d24-4de9-ad5a-010718d43435)
+[![MasterHead](https://github.com/user-attachments/assets/440a126e-9d24-4de9-ad5a-010718d43435)
 
 <h1 align="center">Hi 👋, I'm Aeyla!!</h1>
 <h3 align="center">👩‍💻 I’m Frontend Developer sharing my journey in the Tech world...</h3>
