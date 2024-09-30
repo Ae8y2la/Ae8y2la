@@ -1,4 +1,4 @@
-![Video Banner]https://github.com/Ae8y2la/Ae8y2la/blob/main/Untitled%20design%20(1).mp4
+![Video Banner](https://github.com/Ae8y2la/Ae8y2la/blob/main/Untitled%20design%20(1).mp4)
 
 <h1 align="center">Hi 👋, I'm Aeyla!!</h1>
 <h3 align="center">👩‍💻 I’m Frontend Developer sharing my journey in the Tech world...</h3>
