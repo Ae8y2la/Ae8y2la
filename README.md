@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/11096d4c-d6c9-40c7-ba1f-62bce36401da">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ae8y2la&label=Profile%20views&color=0e75b6&style=flat" alt="ae8y2la" />
-  <p align="left"> <a href="in/ aeyla-naseer-14a0502b6" target "blank"><img src="https://github.com/user-attachments/assets/d2b857b7-629d-43d1-a485-0696632e3660"/></a></p>
+  <p align="left">Let's Develop Together🚀!!</p>
 
 - 🌱 I’m currently learning **Cloud-Applied Generative-AI**
 
