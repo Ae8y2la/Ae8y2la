@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **aeylanaseer@gmail.com**
 
-- ⚡ Fun fact **iam a coding worm🥸**
+- ⚡ Fun fact **iam a coding worm🤖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
