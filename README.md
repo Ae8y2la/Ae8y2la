@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Cloud-Applied Generative-AI**
 
-- 📫 How to reach me: **aeylanaseer@gmail.com**
+- 📫 How to reach me: ****
 
 - ⚡ Fun fact **iam a coding worm🤖**
 
