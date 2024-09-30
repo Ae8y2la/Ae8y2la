@@ -1,4 +1,5 @@
-![Video Banner](https://github.com/user-attachments/assets/034531fb-6730-43f4-ba77-c8ffc9ca2443)]
+![Video Banner](https://github.com/user-attachments/assets/48af83d1-aec9-4704-a753-c3579f9fa544)]
+
 
 <h1 align="center">Hi 👋, I'm Aeyla!!</h1>
 <h3 align="center">👩‍💻 I’m Frontend Developer sharing my journey in the Tech world...</h3>
