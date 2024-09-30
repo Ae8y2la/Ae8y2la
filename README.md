@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Aeyla!!</h1>
 <h3 align="center">👩‍💻 I’m Frontend Developer sharing my journey in the Tech world...</h3>
+(img align="right" alt="Coding" width="400" src=https://www.shecodes.io/assets/stickers/studying-f63ab67bd58a22f903188cb2d6a9be84bffe2e1ed8fd3f33dde3b1291a23a310.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ae8y2la&label=Profile%20views&color=0e75b6&style=flat" alt="ae8y2la" /> </p>
 
