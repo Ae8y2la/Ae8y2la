@@ -8,3 +8,4 @@
 <!---
 [!Aeyla's Github Stats](https://github-readme-stats.vercel.app/api?username=Ae8y2la&show_icons=true&theme=radical)](https://github.com/Ae8y2la/github-readme-stats)
 --->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ae8y2la&layout=donut)](https://github.com/Ae8y2la/github-readme-stats)
