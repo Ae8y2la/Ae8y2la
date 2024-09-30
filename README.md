@@ -1,4 +1,6 @@
-[![MasterHead](https://github.com/user-attachments/assets/202fcf65-8ceb-4595-93c1-278c5bd98e0e)
+[![MasterHead](https://github.com/user-attachments/assets/e85357ed-5c85-499d-8468-22dd4976a146)
+
+
 
 
 <h1 align="center">Hi 👋, I'm Aeyla!!</h1>
