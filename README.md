@@ -6,5 +6,5 @@
 - 😄 Pronouns:she/her
 - ⚡ Fun fact:nothing🥸
 <!---
-[!Aeyla's Github Stats](https://github-readme-stats.vercel.app/api?username=Ae8y2la)](https://github.com/Ae8y2la/github-readme-stats)
+[!Aeyla's Github Stats](https://github-readme-stats.vercel.app/api?username=Ae8y2la&show_icons=true&theme=radical)](https://github.com/Ae8y2la/github-readme-stats)
 --->
