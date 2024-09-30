@@ -1,4 +1,4 @@
-![Video Banner](https://github.com/user-attachments/assets/48af83d1-aec9-4704-a753-c3579f9fa544)]
+![Video Banner](https://github.com/user-attachments/assets/48af83d1-aec9-4704-a753-c3579f9fa544)
 
 
 <h1 align="center">Hi 👋, I'm Aeyla!!</h1>
