@@ -26,6 +26,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ae8y2la&" alt="ae8y2la" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ae8y2la&show_icons=true&locale=en&layout=compact" alt="ae8y2la" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ae8y2la&" alt="ae8y2la" /></p>
