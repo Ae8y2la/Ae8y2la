@@ -1,24 +1,16 @@
-<!-- Profile Banner with Video-like Effect -->
+<!-- Dynamic Header -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e54c5d39-b2ce-43e1-805c-bf39a1864496" alt="Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=120&section=header&text=Aeyla's%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
 </div>
 
-<!-- Animated GIF -->
+<!-- Typing SVG -->
 <div align="center">
-  <img src="https://i.imgur.com/7QZQZ9q.gif" alt="Y2K Aesthetic" width="200px" />
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Aeyla" alt="Typing SVG" />
+    </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Aeyla!!</h1>
-<h3 align="center">👩‍💻 A Frontend Developer blending creativity with code...</h3>
-
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/11096d4c-d6c9-40c7-ba1f-62bce36401da">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ae8y2la&label=Profile%20views&color=0e75b6&style=flat" alt="ae8y2la" /> </p>
-<p align="left">Let's Develop Together 🚀!!</p>
-
-- 🌱 I’m currently learning **Cloud-Applied Generative-AI**  
-- 👾 How to reach me: **user6790.h**  
-- ⚡ Fun fact: **I’m a coding worm 🤖**
+<br>
 
 ---
 
@@ -59,8 +51,14 @@
 
 ---
 
+### 🌟 GitHub Contributions  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ae8y2la&theme=y2k&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+</div>
+
+---
+
 <div align="center">
   <img src="https://i.imgur.com/5QZQZ9q.gif" alt="Y2K Glitch" width="100px" />
   <p>✨ Stay retro, stay futuristic. ✨</p>
 </div>
-
