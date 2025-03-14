@@ -1,16 +1,5 @@
-<!-- Dynamic Header -->
-<div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=120&section=header&text=Aeyla's%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
-</div>
 
-<!-- Typing SVG -->
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Aeyla" alt="Typing SVG" />
-    </a>
-</div>
 
-<br>
 
 ---
 
@@ -59,6 +48,5 @@
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/5QZQZ9q.gif" alt="Y2K Glitch" width="100px" />
   <p>✨ Stay retro, stay futuristic. ✨</p>
 </div>
