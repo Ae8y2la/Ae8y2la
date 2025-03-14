@@ -1,57 +1,28 @@
-<!-- Blurred Gradient Header -->
-<div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Aeyla&fontSize=80&fontColor=0D4D66&fontAlignY=50&desc=Frontend%20Developer%20%7C%20Tech%20Enthusiast&descSize=25&descAlignY=75&descColor=FAF9F5&stroke=FAF9F&strokeWidth=2" alt="Header" />
-</div>
+![Picture Banner](https://github.com/user-attachments/assets/e54c5d39-b2ce-43e1-805c-bf39a1864496)
 
-<!-- Typing SVG -->
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=71557A&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Aeyla" alt="Typing SVG" />
-    </a>
-</div>
 
-<br>
+<h1 align="center">Hi 👋, I'm Aeyla!!</h1>
+<h3 align="center">👩‍💻 I’m a Frontend Developer sharing my journey in the Tech world...</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/11096d4c-d6c9-40c7-ba1f-62bce36401da">
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ae8y2la&label=Profile%20views&color=0e75b6&style=flat" alt="ae8y2la" />
+  <p align="left">Let's Develop Together🚀!!</p>
 
-### 🚀 Skills  
-<div align="center">
-  <!-- Animated Skill Badges -->
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=84C2C0&color=84C2C0&animation=flip" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=84C2C0&color=84C2C0&animation=flip" alt="React" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=84C2C0&color=84C2C0&animation=flip" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=84C2C0&color=84C2C0&animation=flip" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=84C2C0&color=84C2C0&animation=flip" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=84C2C0&color=84C2C0&animation=flip" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=84C2C0&color=84C2C0&animation=flip" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=84C2C0&color=84C2C0&animation=flip" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=84C2C0&color=84C2C0&animation=flip" alt="Python" />
-  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white&labelColor=84C2C0&color=84C2C0&animation=flip" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=84C2C0&color=84C2C0&animation=flip" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=84C2C0&color=84C2C0&animation=flip" alt="Photoshop" />
-</div>
+- 🌱 I’m currently learning **Cloud-Applied Generative-AI**
 
----
+- 👾 How to reach me: **user6790.h**
 
-### 🌐 Let's Connect  
-<div align="center">
-  <a href="https://linkedin.com/in/aeyla-naseer" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=84C2C0&color=84C2C0&animation=flip" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.gg/user6790.h" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=84C2C0&color=84C2C0&animation=flip" alt="Discord" />
-  </a>
-</div>
+- ⚡ Fun fact **iam a coding worm🤖**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aeyla naseer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aeyla naseer" height="30" width="40" /></a>
+  <a href="https://discord.gg/user6790.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="user6790.h" height="30" width="40" /></a>
+</p>
 
-### 🌟 GitHub Contributions  
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ae8y2la&theme=y2k&hide_border=true&area=true" alt="GitHub Contribution Graph" />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ae8y2la&show_icons=true&locale=en&layout=compact" alt="ae8y2la" /></p>
 
-<div align="center">
-  <p>✨ Stay retro, stay futuristic. ✨</p>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ae8y2la&" alt="ae8y2la" /></p> 
