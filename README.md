@@ -1,6 +1,6 @@
-<!-- Starry Falling Header -->
+<!-- Blurred Gradient Header -->
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:84C2C0,100:84C2C0&height=150&section=header&text=Aeyla&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Tech%20Enthusiast&descSize=20&descAlignY=70&stroke=84C2C0&strokeWidth=5" alt="Header" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Aeyla&fontSize=80&fontColor=ffffff&fontAlignY=50&desc=Frontend%20Developer%20%7C%20Tech%20Enthusiast&descSize=25&descAlignY=75" alt="Header" />
 </div>
 
 <!-- Typing SVG -->
