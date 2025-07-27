@@ -1,28 +1,28 @@
-![Picture Banner](https://github.com/user-attachments/assets/e54c5d39-b2ce-43e1-805c-bf39a1864496)
+<!-- Cyber-style banner with old library + terminal aesthetic -->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e54c5d39-b2ce-43e1-805c-bf39a1864496" alt="Dark Academia Tech Banner" width="100%">
+</div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=28&duration=4000&pause=1000&color=CDAA7D&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Aeyla;Code+by+candlelight...;Debug+like+a+Victorian..." alt="Typewriter effect" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Aeyla!!</h1>
-<h3 align="center">👩‍💻 I’m a Frontend Developer sharing my journey in the Tech world...</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/11096d4c-d6c9-40c7-ba1f-62bce36401da">
+<h3 align="center" style="color: #8B9D83;">🖥️ Scholar of the Digital Arts | 🕯️ Victorian Debugging Practitioner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ae8y2la&label=Profile%20views&color=0e75b6&style=flat" alt="ae8y2la" />
-  <p align="left">Let's Develop Together🚀!!</p>
+<img align="right" alt="Coding" width="380" src="https://github.com/user-attachments/assets/11096d4c-d6c9-40c7-ba1f-62bce36401da">
 
-- 🌱 I’m currently learning **Cloud-Applied Generative-AI**
-
-- 👾 How to reach me: **user6790.h**
-
-- ⚡ Fun fact **iam a coding worm🤖**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aeyla naseer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aeyla naseer" height="30" width="40" /></a>
-  <a href="https://discord.gg/user6790.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="user6790.h" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ae8y2la&show_icons=true&locale=en&layout=compact" alt="ae8y2la" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ae8y2la&" alt="ae8y2la" /></p> 
+```yaml
+# about_me.yml
+identity:
+  name: "Aeyla"
+  title: "Frontend Alchemist"
+  philosophy: "Transforming coffee into code since 2020"
+quirks:
+  - "Debug by candlelight like a Victorian hacker"
+  - "Believe console.log() is the modern quill pen"
+  - "Organize code like library Dewey Decimal system"
+current_studies:
+  - "Cloud-Applied Generative-AI"
+  - "The Art of Rust"
+contact: "user6790.h@protonmail.com"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ae8y2la&label=Tome+Visitors&color=5C4B3D&style=flat-square" alt="Profile views" /> <img src="https://img.shields.io/badge/Status-Coding%20by%20Candlelight-8B4513?style=flat-square" alt="Status" /> </p><h3 align="left">🕰️ My Tools & Grimoires</h3><!-- Metallic skill buttons --><p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=5C4B3D" alt="html5"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=3D5C3C" alt="css3"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=5C4B3D" alt="javascript"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=3D5C3C" alt="react"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=5C4B3D" alt="nextjs"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=3D5C3C" alt="nodejs"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=5C4B3D" alt="python"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3D5C3C" alt="typescript"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=5C4B3D" alt="tailwind"/> </a> </p><h3 align="left">📜 Chronicles & Metrics</h3><!-- GitHub stats with custom colors --><p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ae8y2la&show_icons=true&theme=dark_accent&hide_border=true&bg_color=1A120B&title_color=D4AF37&text_color=8B9D83&icon_color=CDAA7D" alt="Aeyla's stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ae8y2la&layout=compact&theme=dark_accent&hide_border=true&bg_color=1A120B&title_color=D4AF37&text_color=8B9D83" alt="Top langs"/> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ae8y2la&theme=dark&background=1A120B&ring=D4AF37&fire=CDAA7D&currStreakNum=8B9D83&sideNums=8B9D83&currStreakLabel=CDAA7D&sideLabels=8B9D83&dates=5C4B3D" alt="GitHub Streak" /> </p><h3 align="left">📫 Send an Owl (or DM)</h3><!-- Dark academia styled contact badges --><p align="left"> <a href="https://linkedin.com/in/aeyla-naseer" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=5C4B3D" alt="LinkedIn"/> </a> <a href="https://discord.gg/user6790.h" target="blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=3D5C3C" alt="Discord"/> </a> <a href="mailto:user6790.h@protonmail.com"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=5C4B3D" alt="Email"/> </a> </p><h3 align="center" style="color: #CDAA7D; font-style: italic;"> "Code is poetry in motion, and I write like I'm in a candlelit library" </h3> ```
