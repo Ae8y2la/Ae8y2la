@@ -1,7 +1,5 @@
-<!-- Rosey pastel banner -->
-<div align="center">
-  <img src="https://i.imgur.com/wfAG9pT.png" alt="Rosey Pastel Banner" width="100%" />
-</div>
+![Header](![Uploading github-header-image (1).png…]()
+)
 
 
 
