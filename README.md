@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center" style="font-family: 'Great Vibes', cursive; color: #C8A2C8;">
-  💻✨ Frontend Developer ✧ Sharing my elegant journey through code & creativity...
+  💻✨ FullStack Developer ✧ Sharing my elegant journey through code & creativity...
 </h3>
 
 <!-- IMAGE FLOATING RIGHT - comes after intro section -->
