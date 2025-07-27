@@ -1,7 +1,10 @@
 ![Picture Banner](https://github.com/user-attachments/assets/e54c5d39-b2ce-43e1-805c-bf39a1864496)
 
 
-<h1 align="center">Hi 👋, I'm Aeyla!!</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=8D7BDE&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aeyla!!" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">👩‍💻 I’m a Frontend Developer sharing my journey in the Tech world...</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/11096d4c-d6c9-40c7-ba1f-62bce36401da">
 
