@@ -12,12 +12,10 @@
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=30&pause=1000&color=C8A2C8&width=450&lines=Let%E2%80%99s+Code+Something+Beautiful+Together+%F0%9F%92%AB" alt="Elegant Typing SVG" />
 </p>
-
 ---
-
 - 🌱 **Currently Exploring:** Cloud-Applied Generative AI ☁️🧠  
-- 💌 **Connect with me:** `user6790.h` (always open to create ✨)  
-- 💫 **Fun Fact:** I'm a digital dreamer who turns pixels into poetry 🦋  
+- 👾 **Connect with me:** **user6790.h** (always open to create ✨)  
+- 💿 **Fun Fact:** building little internet worlds with soft hands & big dreams 💻🌙  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
