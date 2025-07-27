@@ -20,16 +20,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=30&pause=1000&color=C8A2C8&width=450&lines=Let%E2%80%99s+Code+Something+Beautiful+Together+%F0%9F%92%AB" alt="Elegant Typing SVG" />
 </p>
 
-<p align="left" style="font-size: 16px; line-height: 1.6;">
-  <b style="color:#B57EDC;">🌱 Currently Exploring:</b>
-  <span style="color:#9370DB;"> <i>Cloud-Applied Generative AI</i> ☁️🧠</span> <br>
+<p align="left" style="font-size: 16px; line-height: 1.8; font-family: 'Segoe UI', cursive;">
+  <b style="color:#F4A6C2;">🌱 Currently Exploring:</b>
+  <span style="color:#A7D3F5;"> <i>Cloud-Applied Generative AI</i> ☁️🧠</span> <br>
 
-  <b style="color:#FF69B4;">👾 Connect with me:</b>
-  <span style="color:#DB7093;"><i>user6790.h</i> (always open to create ✨)</span> <br>
+  <b style="color:#B6E2D3;">👾 Connect with me:</b>
+  <span style="color:#F6BD60;"><i>user6790.h</i> (always open to create ✨)</span> <br>
 
-  <b style="color:#87CEFA;">💿 Fun Fact:</b>
-  <span style="color:#6A5ACD;">building little internet worlds with soft hands & big dreams 💻🌙</span>
+  <b style="color:#CDB4DB;">💿 Fun Fact:</b>
+  <span style="color:#FFDAC1;">building little internet worlds with soft hands & big dreams 💻🌙</span>
 </p>
+
 
   
 
