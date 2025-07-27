@@ -1,4 +1,8 @@
-![Picture Banner](https://github.com/user-attachments/assets/e54c5d39-b2ce-43e1-805c-bf39a1864496)
+<!-- Rosey pastel banner -->
+<div align="center">
+  <img src="https://i.imgur.com/wfAG9pT.png" alt="Rosey Pastel Banner" width="100%" />
+</div>
+
 
 
 <h1 align="center">
