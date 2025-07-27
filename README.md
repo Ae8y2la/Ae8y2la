@@ -7,13 +7,10 @@
 <h3 align="center" style="font-family: 'Great Vibes', cursive; color: #C8A2C8;">
   💻✨ Frontend Developer ✧ Sharing my elegant journey through code & creativity...
 </h3>
-
 <img align="right" alt="Coding Girl" width="400" src="https://github.com/user-attachments/assets/11096d4c-d6c9-40c7-ba1f-62bce36401da">
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ae8y2la&label=Profile%20views&color=C8A2C8&style=flat" alt="ae8y2la" />
 </p>
-
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=30&pause=1000&color=C8A2C8&width=450&lines=Let%E2%80%99s+Code+Something+Beautiful+Together+%F0%9F%92%AB" alt="Elegant Typing SVG" />
 </p>
