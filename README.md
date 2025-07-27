@@ -4,14 +4,18 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=28&duration=4000&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aeyla!!;Frontend+Dev+by+day%2C+Tech+worm+by+night." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aeyla;Frontend+Dev+%7C+Cyberpunk+Explorer;Building+Interfaces+with+Style+and+Neon" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">
-  👾 Digital Nomad in Code || Building Futuristic Frontends 👩‍💻
-</h3>
+---
 
 <img align="right" alt="Cyber Coding" width="400" src="https://github.com/user-attachments/assets/11096d4c-d6c9-40c7-ba1f-62bce36401da">
+
+### 👾 About Me
+- 🚀 Currently exploring **Cloud-Applied Generative AI**
+- 🎨 Designing sleek UIs with **TailwindCSS + Figma**
+- 🧠 Always learning. Always building.
+- 🕹️ Fun fact: I'm a coding worm in the digital matrix 🐛
 
 ---
 
@@ -26,16 +30,7 @@
 
 ---
 
-### 📡 About Me
-
-- 🌱 I’m currently learning **Cloud-Applied Generative-AI**
-- 👾 How to reach me: **user6790.h**
-- ⚡ Fun fact: **I’m a coding worm 🤖**
-- 🚀 Motto: _Let’s Develop Together_
-
----
-
-### 🌐 Connect With Me in the Grid
+### 🛸 Let’s Connect Across the Grid
 
 <p align="left">
   <a href="https://linkedin.com/in/aeyla%20naseer" target="_blank">
@@ -48,7 +43,7 @@
 
 ---
 
-### 💻 Tech Stack — Tools of My Neon Arsenal
+### 🛠 Tech Stack — Tools of My Neon Arsenal
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,python,pandas,figma,ps,ai" />
@@ -56,15 +51,37 @@
 
 ---
 
-### 📊 Neon Metrics in Motion
+### 🎯 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **🌌 NeonCV Builder** | Create stunning animated CVs in-browser | TypeScript, HTML, CSS |
+| **🎭 Fashion Nightmare Game** | Roblox fashion show turned horror | Roblox Studio, LUA |
+| **🧠 Health Wellness AI** | Smart AI assistant for wellness | Python, LangChain, OpenAI |
+
+---
+
+### 📊 Metrics in Motion
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ae8y2la&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ae8y2la&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ae8y2la&bg_color=0d1117&color=00fff7&line=ff00ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
 
-> ⚡ _“Code like you’re already living in 2099.”_
+### 🤖 Did You Know?
+
+> 🌀 _I built my first mini-site with just HTML & CSS inside a notebook_  
+> ☄️ _I've spent more time on Figma than Netflix this year_  
+> 💾 _My keyboard glows in 4 colors — so do my ideas_
+
+---
+
+### 💬 Final Cyber Line
+<p align="center"><code style="font-family:monospace;font-size:16px;">"The future isn't just coded. It's styled."</code></p>
+
 
