@@ -4,17 +4,26 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=40&duration=4000&pause=1000&color=C8A2C8&center=true&vCenter=true&repeat=false&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Aeyla!!" alt="Typing SVG" />
 </h1>
-<h3 align="center">👩‍💻 I’m a Frontend Developer sharing my journey in the Tech world...</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/11096d4c-d6c9-40c7-ba1f-62bce36401da">
+<h3 align="center" style="font-family: 'Great Vibes', cursive; color: #C8A2C8;">
+  🌸 I’m a Frontend Developer sharing my journey through the world of Tech & Aesthetics...
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ae8y2la&label=Profile%20views&color=0e75b6&style=flat" alt="ae8y2la" />
-  <p align="left"> 𝐋𝐞𝐭'𝐬 𝐃𝐞𝐯𝐞𝐥𝐨𝐩 𝐓𝐨𝐠𝐞𝐭𝐡𝐞𝐫🚀!!</p>
+<img align="right" alt="Coding Girl" width="400" src="https://github.com/user-attachments/assets/11096d4c-d6c9-40c7-ba1f-62bce36401da">
 
-- 🌱 I’m currently learning **Cloud-Applied Generative-AI**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ae8y2la&label=Profile%20views&color=C8A2C8&style=flat" alt="ae8y2la" />
+</p>
 
-- 👾 How to reach me: **user6790.h**
+<p align="left" style="font-family: 'Great Vibes', cursive; color: #C8A2C8; font-size: 20px;">
+  💫 Let’s Create Magic Together in Code!
+</p>
 
-- ⚡ Fun fact **iam a coding worm🤖**
+---
+
+- 🌱 Currently learning: **Cloud-Applied Generative AI** ☁️✨  
+- 💌 Reach me at: **user6790.h** (DMs always open for collabs 💻💜)  
+- ✨ Fun fact: **I'm a dreamy coder who sees poetry in pixels.**  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
