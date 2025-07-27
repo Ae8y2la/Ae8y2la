@@ -2,21 +2,30 @@
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Parisienne&size=42&duration=4000&pause=1000&color=E9A6A6&center=true&vCenter=true&repeat=false&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Aeyla!!" alt="Typing SVG" />
+</h1>
+
 <h3 align="center" style="font-family: 'Great Vibes', cursive; color: #C8A2C8;">
   💻✨ Frontend Developer ✧ Sharing my elegant journey through code & creativity...
 </h3>
-<img align="right" alt="Coding Girl" width="400" src="https://github.com/user-attachments/assets/11096d4c-d6c9-40c7-ba1f-62bce36401da">
+
+<!-- IMAGE FLOATING RIGHT - comes after intro section -->
+<img align="right" alt="Coding Girl" width="320" src="https://github.com/user-attachments/assets/11096d4c-d6c9-40c7-ba1f-62bce36401da" style="margin-left: 16px;" />
+
+<!-- STATS AND SOFT TEXT -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ae8y2la&label=Profile%20views&color=C8A2C8&style=flat" alt="ae8y2la" />
 </p>
+
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=30&pause=1000&color=C8A2C8&width=450&lines=Let%E2%80%99s+Code+Something+Beautiful+Together+%F0%9F%92%AB" alt="Elegant Typing SVG" />
 </p>
----
+
+<p align="left" style="font-size: 16px; color: #DDA0DD;">
+  - 🌱 <b>Currently Exploring:</b> Cloud-Applied Generative AI ☁️🧠 <br>
+  - 👾 <b>Connect with me:</b> <i>user6790.h</i> (always open to create ✨) <br>
+  - 💿 <b>Fun Fact:</b> building little internet worlds with soft hands & big dreams 💻🌙
+</p>
   
-- 🌱 **Currently Exploring:** Cloud-Applied Generative AI ☁️🧠  
-- 👾 **Connect with me:** **user6790.h** (always open to create ✨)  
-- 💿 **Fun Fact:** building little internet worlds with soft hands & big dreams 💻🌙  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
