@@ -1,5 +1,4 @@
-![Picture Banner](github-header-image (1).png) 
-
+![Header](./C:\Users\HP\Downloads\github-header-image (1).png)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Parisienne&size=42&duration=4000&pause=1000&color=E9A6A6&center=true&vCenter=true&repeat=false&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Aeyla!!" alt="Typing SVG" />
