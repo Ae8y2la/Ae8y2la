@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Aeyla!!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=40&duration=4000&pause=1000&color=C8A2C8&center=true&vCenter=true&repeat=false&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Aeyla!!" alt="Typing SVG" />
 </h1>
 <h3 align="center">👩‍💻 I’m a Frontend Developer sharing my journey in the Tech world...</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/11096d4c-d6c9-40c7-ba1f-62bce36401da">
