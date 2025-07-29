@@ -58,7 +58,3 @@
 <a href="http://www.github.com/Ae8y2la">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ae8y2la&stroke=000000&background=ffffff&ring=ec4899&fire=ec4899&currStreakNum=000000&currStreakLabel=ec4899&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" />
 </a>
-
-<!-- 🐍 Contribution Snake (Optional - needs GitHub Actions) -->
-<img src="https://raw.githubusercontent.com/Ae8y2la/Ae8y2la/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-
