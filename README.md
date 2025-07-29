@@ -55,8 +55,8 @@
 </a>
 
 <!-- 📊 GitHub Stats -->
-<a href="https://github.com/Ae8y2la">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ae8y2la&show_icons=true&hide_border=true&title_color=ec4899&text_color=000000&icon_color=f472b6&bg_color=ffffff" alt="GitHub Stats" />
+<a href="http://www.github.com/Ae8y2la">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ae8y2la&stroke=000000&background=ffffff&ring=ec4899&fire=ec4899&currStreakNum=000000&currStreakLabel=ec4899&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" />
 </a>
 
 <!-- 🐍 Contribution Snake (Optional - needs GitHub Actions) -->
