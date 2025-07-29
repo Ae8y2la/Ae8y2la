@@ -49,26 +49,16 @@
 ### ✦ Badges  
 <b>My GitHub Stats</b>  
 
-<!-- GitHub Streak -->
-<a href="http://www.github.com/Ae8y2la">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ae8y2la&stroke=000000&background=ffffff&ring=f9a8d4&fire=f9a8d4&currStreakNum=000000&currStreakLabel=f472b6&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" />
-</a>
-
-<!-- Top Languages -->
+<!-- 🧁 Top Languages -->
 <a href="https://github.com/Ae8y2la" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ae8y2la&langs_count=6&title_color=f472b6&text_color=000000&icon_color=f472b6&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
 
-<!-- GitHub Stats -->
+<!-- 📊 GitHub Stats -->
 <a href="https://github.com/Ae8y2la">
   <img src="https://github-readme-stats.vercel.app/api?username=Ae8y2la&show_icons=true&hide_border=true&title_color=ec4899&text_color=000000&icon_color=f472b6&bg_color=ffffff" alt="GitHub Stats" />
 </a>
 
-<!-- Contribution Snake -->
-<img src="https://raw.githubusercontent.com/Ae8y2la/Ae8y2la/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-<!-- Profile Views (Optional) -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ae8y2la&label=Profile%20Views&color=f9a8d4&style=flat" alt="Profile Views" />
-</p>
+<!-- 🐍 Contribution Snake (Optional - needs GitHub Actions) -->
+<img src="https://raw.githubusercontent.com/Ae8y2la/Ae8y2la/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 
